@@ -3,12 +3,20 @@
 This repository contains programs that print a triangle pattern using stars in various programming languages.
 # Languages
 
-- Bash
-- Assembly (x86-64)
-- Go
-- Lisp
-- R
-- 
+- Bash (triangle.sh)
+- Assembly (x86-64) (triangle.asm)
+- Go (triangle.go)
+- Lisp (triangle.lisp)
+- R (triangle.R)
+- FORTRAN (triangle.f90)
+- Perl (triangle.pl)
+- BASIC (triangle.bas)
+- Objective-C (triangle.m)
+- COBOL (triangle.cbl)
+- APL (triangle.apl)
+- Pascal (triangle.pas)
+- B (triangle.b)
+
 # Usage
 
 - Choose the program for your desired programming language.
